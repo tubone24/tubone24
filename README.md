@@ -33,6 +33,10 @@ If you want to know my footprint, please check [my portfolio](https://portfolio.
    - Blogging (Everything with new techs) <br/>
 </details>
 
+### Happy Coding :octocat:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tubone24&show_icons=true&hide_border=true" alt="tubone24's Github Stats">
+
 <p>
 
 [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
