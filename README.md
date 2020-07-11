@@ -18,7 +18,6 @@ Please feel free to give me a shout out [@meitante1conan](https://twitter.com/me
 <a href="https://500px.com/tubone24"><img height="30" src="https://raw.githubusercontent.com/tubone24/tubone24/master/photography.png"></a>&nbsp;&nbsp;
 <a href="https://blog.tubone-project24.xyz"><img height="30" src="https://raw.githubusercontent.com/tubone24/tubone24/master/blog.png"></a>&nbsp;&nbsp;
 <a href="https://tubone24.github.io/resume/"><img height="30" src="https://raw.githubusercontent.com/tubone24/tubone24/master/resume.png"></a>&nbsp;&nbsp;
-<a href="https://tubone24.github.io/resume/"><img height="30" src="resume.png"></a>&nbsp;&nbsp;
 </p>
 
 ### My Footprint 🌱
