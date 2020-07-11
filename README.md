@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](github_profile.png)
+![header](https://raw.githubusercontent.com/tubone24/tubone24/master/github_profile.png)
 
 I'm tubone.
 
@@ -12,12 +12,12 @@ Please feel free to give me a shout out [@meitante1conan](https://twitter.com/me
 
 
 <p align='center'>
-<a href="https://twitter.com/meitante1conan"><img height="30" src="twitter.png"></a>&nbsp;&nbsp;
-<a href="https://soundcloud.com/user-453736300"><img height="30" src="soundcloud.png"></a>&nbsp;&nbsp;
-<a href="https://www.slideshare.net/tubone24"><img height="30" src="share.png"></a>&nbsp;&nbsp;
-<a href="https://500px.com/tubone24"><img height="30" src="photography.png"></a>&nbsp;&nbsp;
-<a href="https://blog.tubone-project24.xyz"><img height="30" src="blog.png"></a>&nbsp;&nbsp;
-<a href="https://tubone24.github.io/resume/"><img height="30" src="resume.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/meitante1conan"><img height="30" src="https://raw.githubusercontent.com/tubone24/tubone24/master/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://soundcloud.com/user-453736300"><img height="30" src="https://raw.githubusercontent.com/tubone24/tubone24/master/soundcloud.png"></a>&nbsp;&nbsp;
+<a href="https://www.slideshare.net/tubone24"><img height="30" src="https://raw.githubusercontent.com/tubone24/tubone24/master/share.png"></a>&nbsp;&nbsp;
+<a href="https://500px.com/tubone24"><img height="30" src="https://raw.githubusercontent.com/tubone24/tubone24/master/photography.png"></a>&nbsp;&nbsp;
+<a href="https://blog.tubone-project24.xyz"><img height="30" src="https://raw.githubusercontent.com/tubone24/tubone24/master/blog.png"></a>&nbsp;&nbsp;
+<a href="https://tubone24.github.io/resume/"><img height="30" src="https://raw.githubusercontent.com/tubone24/tubone24/master/resume.png"></a>&nbsp;&nbsp;
 </p>
 
 ### My Footprint 🌱
