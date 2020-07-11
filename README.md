@@ -54,7 +54,7 @@ If you want to know my footprint, please check [my portfolio](https://portfolio.
 
 ##### Now studying
 
-<img src="https://img.shields.io/badge/-Adobe%20photoshop-00C8FF.svg?logo=adobe-photoshop&style=flat-square"><img src="https://img.shields.io/badge/-Flutter-02569B.svg?logo=flutter&style=flat-square"><img src="https://img.shields.io/badge/-Electron-47848F.svg?logo=electron&style=flat-square">
+<img src="https://img.shields.io/badge/-Adobe%20photoshop-036682.svg?logo=adobe-photoshop&style=flat-square"><img src="https://img.shields.io/badge/-Flutter-02569B.svg?logo=flutter&style=flat-square"><img src="https://img.shields.io/badge/-Electron-011a21.svg?logo=electron&style=flat-square">
 
 <!-- <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat-square">
 
