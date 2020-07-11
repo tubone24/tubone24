@@ -4,7 +4,7 @@
 
 I'm tubone.
 
-I'm a Software developer with over 4+ years and the latest trying to tech lead with engineering teams. Expert at AWS by using Server-less architecture.
+I'm a Software and Infrastructure developer with over 4+ years and the latest trying to tech lead with engineering teams. Expert at AWS by using Server-less architecture.
 
 And also, I'm an amateur DTM composer and Guitarist (collaborating with [chocoholic](https://chocoholic.stores.jp/)).
 
@@ -28,13 +28,7 @@ If you want to know my footprint, please check [my portfolio](https://portfolio.
 
 ##### Frontend
 
-<img src="https://img.shields.io/badge/-Javascript-818c01.svg?logo=javascript&style=flat-square">
-<img src="https://img.shields.io/badge/-Typescript-007ACC.svg?logo=typescript&style=flat-square">
-<img src="https://img.shields.io/badge/-Vue.js-004d0a.svg?logo=vue.js&style=flat-square">
-<img src="https://img.shields.io/badge/-Nuxt.js-054d00.svg?logo=nuxt.js&style=flat-square">
-<img src="https://img.shields.io/badge/-Gatsby-663399.svg?logo=gatsby&style=flat-square">
-<img src="https://img.shields.io/badge/-Eslint-4B32C3.svg?logo=eslint&style=flat-square">
-<img src="https://img.shields.io/badge/-Sass-4d003e.svg?logo=sass&style=flat-square">
+<img src="https://img.shields.io/badge/-Javascript-818c01.svg?logo=javascript&style=flat-square"><img src="https://img.shields.io/badge/-Typescript-007ACC.svg?logo=typescript&style=flat-square"><img src="https://img.shields.io/badge/-Vue.js-004d0a.svg?logo=vue.js&style=flat-square"><img src="https://img.shields.io/badge/-Nuxt.js-054d00.svg?logo=nuxt.js&style=flat-square"><img src="https://img.shields.io/badge/-Gatsby-663399.svg?logo=gatsby&style=flat-square"><img src="https://img.shields.io/badge/-Eslint-4B32C3.svg?logo=eslint&style=flat-square"><img src="https://img.shields.io/badge/-Sass-4d003e.svg?logo=sass&style=flat-square"><img src="https://img.shields.io/badge/-Vuetify-1867C0.svg?logo=vuetify&style=flat-square">
 
 ##### Backend
 
@@ -65,6 +59,17 @@ If you want to know my footprint, please check [my portfolio](https://portfolio.
 <img src="https://img.shields.io/badge/-Datadog-00C8FF.svg?logo=datadog&style=flat-square">
 <img src="https://img.shields.io/badge/-Snyk-4C4A73.svg?logo=snyk&style=flat-square">
 <img src="https://img.shields.io/badge/-Sentry-8c0101.svg?logo=sentry&style=flat-square">
+<img src="https://img.shields.io/badge/-Grafana-822b03.svg?logo=grafana&style=flat-square">
+
+<!-- ##### Embedded, OS, Middleware
+
+<img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat-square">
+<img src="https://img.shields.io/badge/-Arduino-00979D.svg?logo=arduino&style=flat-square">
+<img src="https://img.shields.io/badge/-Fedora-294172.svg?logo=fedora&style=flat-square">
+<img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=flat-square">
+<img src="https://img.shields.io/badge/-Mysql-4479A1.svg?logo=mysql&style=flat-square">
+<img src="https://img.shields.io/badge/-Elasticsearch-005571.svg?logo=elasticsearch&style=flat-square">
+<img src="https://img.shields.io/badge/-Nginx-269539.svg?logo=nginx&style=flat-square">  -->
 
 ##### Now studying
 
@@ -72,32 +77,14 @@ If you want to know my footprint, please check [my portfolio](https://portfolio.
 <img src="https://img.shields.io/badge/-Flutter-02569B.svg?logo=flutter&style=flat-square">
 <img src="https://img.shields.io/badge/-Electron-47848F.svg?logo=electron&style=flat-square">
 
-<img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat-square">
-
-
-
-
-
-<img src="https://img.shields.io/badge/-Arduino-00979D.svg?logo=arduino&style=flat-square">
+<!-- <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat-square">
 
 
 <img src="https://img.shields.io/badge/-Coffeescript-2F2625.svg?logo=coffeescript&style=flat-square">
 
-<img src="https://img.shields.io/badge/-Elasticsearch-005571.svg?logo=elasticsearch&style=flat-square">
+-->
 
-
-<img src="https://img.shields.io/badge/-Fedora-294172.svg?logo=fedora&style=flat-square">
-
-
-<img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square">
-<img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat-square">
-
-
-<img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=flat-square">
-<img src="https://img.shields.io/badge/-Mysql-4479A1.svg?logo=mysql&style=flat-square">
-<img src="https://img.shields.io/badge/-Nginx-269539.svg?logo=nginx&style=flat-square">
-
-
+##### Vimmer or Emacser?
 
 <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat-square">
 
