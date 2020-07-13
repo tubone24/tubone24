@@ -26,7 +26,7 @@ And [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?
 
 If you want to know my footprint, please check [my portfolio](https://portfolio.tubone-project24.xyz/) out.
 
-#### Skills
+#### Skills ⚡
 
 ##### Frontend
 
@@ -71,7 +71,7 @@ If you want to know my footprint, please check [my portfolio](https://portfolio.
 
 #### Happy Coding :octocat:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tubone24&show_icons=true&hide_border=true" alt="tubone24's Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=tubone24&show_icons=true&hide_border=true" alt="tubone24's Github Stats">
 
 
 ### And more...
