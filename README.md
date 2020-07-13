@@ -10,6 +10,8 @@ And also, I'm an amateur DTM composer and Guitarist (collaborating with [chocoho
 
 Please feel free to give me a shout out [@meitante1conan](https://twitter.com/meitante1conan). Feel free to reach out in case you want to just get in touch also.
 
+And [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 
 <p align='center'>
 <a href="https://twitter.com/meitante1conan"><img height="30" src="https://raw.githubusercontent.com/tubone24/tubone24/master/twitter.png"></a>&nbsp;&nbsp;
@@ -71,11 +73,16 @@ If you want to know my footprint, please check [my portfolio](https://portfolio.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tubone24&show_icons=true&hide_border=true" alt="tubone24's Github Stats">
 
-<p>
 
-[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+### And more...
+
+#### What do I think about Twitter?
+
+<img src="https://raw.githubusercontent.com/tubone24/auto_tweet_wordcloud/master/src/word_cloud_tweet_face_profile.png" alt="wordcloud" width="417" height="488">
+
+---
+
 <img src="https://visitor-badge.glitch.me/badge?page_id=tubone24.visitor-badge"/> 
-</p>
 
 <!--
 **tubone24/tubone24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
