@@ -25,9 +25,6 @@ jobs:
       - name: Install Dependencies
         run:
           pip install -r requirements.txt
-      - name: Download Neologd Dictionary
-        run:
-          sh scripts/download_neologd_dict.sh
       - name: Generate RSS Link
         run: python3 get_rss_feed.py
 
