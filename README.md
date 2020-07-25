@@ -78,23 +78,22 @@ If you want to know my footprint, please check [my portfolio](https://portfolio.
 
 #### What do I think about Twitter?
 
-<img src="https://raw.githubusercontent.com/tubone24/auto_tweet_wordcloud/master/src/word_cloud_tweet_face_profile.png" alt="wordcloud" width="417" height="488">
-
+<img src="https://raw.githubusercontent.com/tubone24/auto_tweet_wordcloud/master/src/word_cloud_tweet_face_profile.png" alt="wordcloud" width="200" height="230">
 <!-- generate_markdown_start -->
 
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="30%">
 
 ### Blog Ratest Posts
 
-[Arctic Code Vault Contributorになったらしい](https://blog.tubone-project24.xyz/2020/07/18/arctic-code-vault)
+- [Arctic Code Vault Contributorになったらしい](https://blog.tubone-project24.xyz/2020/07/18/arctic-code-vault) - 2020-07-18
 
-[GitHub ProfileにREADMEをつけよう！](https://blog.tubone-project24.xyz/2020/07/12/github-profile)
+- [GitHub ProfileにREADMEをつけよう！](https://blog.tubone-project24.xyz/2020/07/12/github-profile) - 2020-07-11
 
-[React Iframeを使ってPortfolioサイトにSoundCloudのメディアプレーヤーをつける](https://blog.tubone-project24.xyz/2020/06/19/react-iframe)
+- [React Iframeを使ってPortfolioサイトにSoundCloudのメディアプレーヤーをつける](https://blog.tubone-project24.xyz/2020/06/19/react-iframe) - 2020-06-18
 
-[クロスルート証明書について考えてみる](https://blog.tubone-project24.xyz/2020/06/01/ssl-cert)
+- [クロスルート証明書について考えてみる](https://blog.tubone-project24.xyz/2020/06/01/ssl-cert) - 2020-06-01
 
-[あつもりを始めてしまいました](https://blog.tubone-project24.xyz/2020/05/31/atsumori)
+- [あつもりを始めてしまいました](https://blog.tubone-project24.xyz/2020/05/31/atsumori) - 2020-05-31
 
 </td></tr></table>
 
