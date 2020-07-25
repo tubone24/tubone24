@@ -80,6 +80,8 @@ If you want to know my footprint, please check [my portfolio](https://portfolio.
 
 <img src="https://raw.githubusercontent.com/tubone24/auto_tweet_wordcloud/master/src/word_cloud_tweet_face_profile.png" alt="wordcloud" width="417" height="488">
 
+<!-- generate_markdown_start -->
+<!-- generate_markdown_end -->
 ---
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=tubone24.visitor-badge"/> 
