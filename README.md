@@ -81,7 +81,7 @@ If you want to know my footprint, please check [my portfolio](https://portfolio.
 <img src="https://raw.githubusercontent.com/tubone24/auto_tweet_wordcloud/master/src/word_cloud_tweet_face_profile.png" alt="wordcloud" width="200" height="230">
 <!-- generate_markdown_start -->
 
-<table><tr><td valign="top" width="30%">
+<table><tr><td valign="top" width="100%">
 
 ### Blog Ratest Posts
 
