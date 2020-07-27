@@ -104,6 +104,9 @@ If you want to know my footprint, please check [my portfolio](https://portfolio.
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=tubone24.visitor-badge"/> 
 
+[![paypal.me/tubone24](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/tubone24) - I want to have a tea!
+
+
 <!--
 **tubone24/tubone24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
