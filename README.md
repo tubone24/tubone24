@@ -73,6 +73,8 @@ If you want to know my footprint, please check [my portfolio](https://portfolio.
 
 <img src="https://github-readme-stats.vercel.app/api?username=tubone24&show_icons=true&hide_border=true" alt="tubone24's Github Stats">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tubone24&layout=compact)](https://portfolio.tubone-project24.xyz/)
+
 
 ### And more...
 
