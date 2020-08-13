@@ -86,6 +86,8 @@ If you want to know my footprint, please check [my portfolio](https://portfolio.
 
 ### Blog Ratest Posts
 
+- [4連休を使ってGASとLINE BOTとFirebaseを使ってラーメン食べたいBOTを作ってみた](https://blog.tubone-project24.xyz/2020/07/25/gas-bot) - 2020-07-24
+
 - [Arctic Code Vault Contributorになったらしい](https://blog.tubone-project24.xyz/2020/07/18/arctic-code-vault) - 2020-07-18
 
 - [GitHub ProfileにREADMEをつけよう！](https://blog.tubone-project24.xyz/2020/07/12/github-profile) - 2020-07-11
@@ -93,8 +95,6 @@ If you want to know my footprint, please check [my portfolio](https://portfolio.
 - [React Iframeを使ってPortfolioサイトにSoundCloudのメディアプレーヤーをつける](https://blog.tubone-project24.xyz/2020/06/19/react-iframe) - 2020-06-18
 
 - [クロスルート証明書について考えてみる](https://blog.tubone-project24.xyz/2020/06/01/ssl-cert) - 2020-06-01
-
-- [あつもりを始めてしまいました](https://blog.tubone-project24.xyz/2020/05/31/atsumori) - 2020-05-31
 
 </td></tr></table>
 
