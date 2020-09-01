@@ -48,8 +48,7 @@ If you want to know my footprint, please check [my portfolio](https://portfolio.
 
 #### Happy Coding :octocat:
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=tubone24&show_icons=true&hide_border=true)](https://portfolio.tubone-project24.xyz/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tubone24&layout=compact)](https://portfolio.tubone-project24.xyz/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tubone24)](https://github.com/tubone24)
 
 
 ### And more...
