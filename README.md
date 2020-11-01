@@ -2,17 +2,6 @@
 
 ![header](https://raw.githubusercontent.com/tubone24/tubone24/master/github_profile.png)
 
-I'm tubone.
-
-I'm a Software and Infrastructure developer with over 4+ years, and I've been leading some engineering teams in recent years. Expert at AWS by using Server-less architecture.
-
-And also, I'm an amateur DTM composer and Guitarist (collaborating with [chocoholic](https://chocoholic.stores.jp/)).
-
-Please feel free to give me a shout out [@meitante1conan](https://twitter.com/meitante1conan). Feel free to reach out in case you want to just get in touch also.
-
-And [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-
 <p align='center'>
 <a href="https://twitter.com/meitante1conan"><img height="30" src="https://raw.githubusercontent.com/tubone24/tubone24/master/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://soundcloud.com/user-453736300"><img height="30" src="https://raw.githubusercontent.com/tubone24/tubone24/master/soundcloud.png"></a>&nbsp;&nbsp;
