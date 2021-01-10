@@ -1,6 +1,10 @@
-### Hi there 👋
-
 ![header](https://raw.githubusercontent.com/tubone24/tubone24/master/github_profile.png)
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=tubone24.visitor-badge"/> 
+
+[![paypal.me/tubone24](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/tubone24)
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/tubone24)](https://ko-fi.com/tubone24)
+
 
 <p align='center'>
 <a href="https://twitter.com/meitante1conan"><img height="30" src="https://raw.githubusercontent.com/tubone24/tubone24/master/twitter.png"></a>&nbsp;&nbsp;
@@ -45,11 +49,6 @@ If you want to know my footprint, please check [my portfolio](https://portfolio.
 
 <!-- generate_markdown_end -->
 ---
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=tubone24.visitor-badge"/> 
-
-[![paypal.me/tubone24](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/tubone24) - I want to have a tea!
-
 
 <!--
 **tubone24/tubone24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
