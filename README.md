@@ -1,7 +1,6 @@
 ![header](https://raw.githubusercontent.com/tubone24/tubone24/master/github_profile.png)
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=tubone24.visitor-badge"/> 
-[![paypal.me/tubone24](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/tubone24)
 
 <a href="https://www.buymeacoffee.com/tubone24"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a ramen&emoji=🍜&slug=tubone24&button_colour=40DCA5&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"></a>
 
