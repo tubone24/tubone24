@@ -22,12 +22,6 @@ If you want to know my footprint, please check [my portfolio](https://portfolio.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tubone24)](https://github.com/tubone24)
 
-
-### And more...
-
-#### What do I think about Twitter?
-
-<img src="https://raw.githubusercontent.com/tubone24/auto_tweet_wordcloud/master/word_cloud_tweet_face_profile.png" alt="wordcloud" width="200" height="230">
 <!-- generate_markdown_start -->
 
 <table><tr><td valign="top" width="100%">
