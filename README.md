@@ -2,6 +2,7 @@
 
 <a target="_blank" rel="noopener noreferrer" href="https://portfolio.tubone-project24.xyz"><img src="https://raw.githubusercontent.com/tubone24/auto_tweet_wordcloud/master/word_cloud_blog_large.png" alt="WordCloud" width="100%" style="max-width:100%;"></a>
 
+[![portfolio](https://img.shields.io/badge/portfolio-tubone24-brightgreen)](https://portfolio.tubone-project24.xyz/)
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/tubone24/tubone24)
 <img src="https://visitor-badge.glitch.me/badge?page_id=tubone24.visitor-badge"/>
 
@@ -19,7 +20,7 @@
 
 ### My Footprint 🌱
 
-If you want to know my footprint, please check [my portfolio](https://portfolio.tubone-project24.xyz/) out.
+If you want to know my footprint, please check [![portfolio](https://img.shields.io/badge/portfolio-tubone24-brightgreen)](https://portfolio.tubone-project24.xyz/) out.
 
 #### Happy Coding :octocat:
 
