@@ -30,7 +30,7 @@ If you want to know my footprint, please check [![portfolio](https://img.shields
 
 <table><tr><td valign="top" width="100%">
 
-### Blog Latest Posts
+### Blog Ratest Posts
 
 - [グラスワンダーちゃんを1着にさせてあげられなくてGitHubの草が生えない問題](https://blog.tubone-project24.xyz/2021/03/15/uma) - 2021-03-14
 
