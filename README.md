@@ -32,6 +32,8 @@ If you want to know my footprint, please check [![portfolio](https://img.shields
 
 ### Blog Ratest Posts
 
+- [Google Chromeのテーマを作った(その2)](https://blog.tubone-project24.xyz/2021/07/08/chrome-theme) - 2021-07-07
+
 - [スーパー完全無料でRSSをSlackに投稿できるやつを作った](https://blog.tubone-project24.xyz/2021/06/25/tech-blog-spider) - 2021-06-25
 
 - [グラスワンダーちゃんを1着にさせてあげられなくてGitHubの草が生えない問題](https://blog.tubone-project24.xyz/2021/03/15/uma) - 2021-03-14
@@ -39,8 +41,6 @@ If you want to know my footprint, please check [![portfolio](https://img.shields
 - [React Hook FormとGetform.ioを使って、お問い合わせフォームを作ろう！](https://blog.tubone-project24.xyz/2021/03/07/react-hook-form) - 2021-03-06
 
 - [2021年の新しいデスクトップはこれだ！！](https://blog.tubone-project24.xyz/2021/03/07/new-desktop) - 2021-03-07
-
-- [Netlifyのビルド時間をGitHub Actionsで0時間にして月末のヒヤヒヤから解放されよう！](https://blog.tubone-project24.xyz/2021/02/13/netlify-github-action) - 2021-02-12
 
 </td></tr></table>
 
