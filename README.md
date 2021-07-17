@@ -18,11 +18,7 @@
 <a href="https://tubone24.github.io/resume/"><img height="30" src="https://raw.githubusercontent.com/tubone24/tubone24/master/resume.png"></a>&nbsp;&nbsp;
 </p>
 
-### My Footprint 🌱
-
-If you want to know my footprint, please check [![portfolio](https://img.shields.io/badge/portfolio-tubone24-brightgreen)](https://portfolio.tubone-project24.xyz/) out.
-
-#### Happy Coding :octocat:
+### Happy Coding :octocat:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tubone24)](https://github.com/tubone24)
 
