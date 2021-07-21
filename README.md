@@ -28,6 +28,8 @@
 
 ### Blog Ratest Posts
 
+- [AKG K712 PROが断線して音が出なくなったので直した](https://blog.tubone-project24.xyz/2021/07/20/akg-fix) - 2021-07-19
+
 - [Google Chromeのテーマを作った(その2)](https://blog.tubone-project24.xyz/2021/07/08/chrome-theme) - 2021-07-07
 
 - [スーパー完全無料でRSSをSlackに投稿できるやつを作った](https://blog.tubone-project24.xyz/2021/06/25/tech-blog-spider) - 2021-06-25
@@ -35,8 +37,6 @@
 - [グラスワンダーちゃんを1着にさせてあげられなくてGitHubの草が生えない問題](https://blog.tubone-project24.xyz/2021/03/15/uma) - 2021-03-14
 
 - [React Hook FormとGetform.ioを使って、お問い合わせフォームを作ろう！](https://blog.tubone-project24.xyz/2021/03/07/react-hook-form) - 2021-03-06
-
-- [2021年の新しいデスクトップはこれだ！！](https://blog.tubone-project24.xyz/2021/03/07/new-desktop) - 2021-03-07
 
 </td></tr></table>
 
