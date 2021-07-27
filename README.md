@@ -28,6 +28,8 @@
 
 ### Blog Ratest Posts
 
+- [ラズパイ活用！電子ペーパーを使ってカレンダーを作ってみる](https://blog.tubone-project24.xyz/2021/07/26/calendar) - 2021-07-24
+
 - [赤外線付きカメラモジュールとmotionを古いラズパイにつけてSlackと連動した監視システムを作ろう](https://blog.tubone-project24.xyz/2021/07/21/motion-ir) - 2021-07-21
 
 - [AKG K712 PROが断線して音が出なくなったので直した](https://blog.tubone-project24.xyz/2021/07/20/akg-fix) - 2021-07-19
@@ -35,8 +37,6 @@
 - [Google Chromeのテーマを作った(その2)](https://blog.tubone-project24.xyz/2021/07/08/chrome-theme) - 2021-07-07
 
 - [スーパー完全無料でRSSをSlackに投稿できるやつを作った](https://blog.tubone-project24.xyz/2021/06/25/tech-blog-spider) - 2021-06-25
-
-- [グラスワンダーちゃんを1着にさせてあげられなくてGitHubの草が生えない問題](https://blog.tubone-project24.xyz/2021/03/15/uma) - 2021-03-14
 
 </td></tr></table>
 
