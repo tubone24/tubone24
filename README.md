@@ -18,10 +18,6 @@
 <a href="https://tubone24.github.io/resume/"><img height="30" src="https://raw.githubusercontent.com/tubone24/tubone24/master/resume.png"></a>&nbsp;&nbsp;
 </p>
 
-### Happy Coding :octocat:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tubone24)](https://github.com/tubone24)
-
 <!-- generate_markdown_start -->
 
 <table><tr><td valign="top" width="100%">
