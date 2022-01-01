@@ -24,6 +24,8 @@
 
 ### Blog Ratest Posts
 
+- [今年も最後だからBlogのBootstrap v3を何とかする](https://blog.tubone-project24.xyz/2021/12/31/blog-bootstrap) - 2021-12-30
+
 - [depcheckをGitHub Actionで使い、PRコメントに結果を出力させる](https://blog.tubone-project24.xyz/2021/11/21/depcheck) - 2021-11-21
 
 - [ヤクの毛刈りから考えるヤクの可愛さ](https://blog.tubone-project24.xyz/2021/09/22/yak) - 2021-09-20
@@ -31,8 +33,6 @@
 - [Denoを使ってGraphQLを叩きながらSlackに投稿する](https://blog.tubone-project24.xyz/2021/07/28/deno-slack) - 2021-07-26
 
 - [Hasura CloudのGraphQLが便利すぎた話](https://blog.tubone-project24.xyz/2021/07/27/hasura-graphql) - 2021-07-26
-
-- [ラズパイ活用！電子ペーパーを使ってカレンダーを作ってみる](https://blog.tubone-project24.xyz/2021/07/26/calendar) - 2021-07-24
 
 </td></tr></table>
 
