@@ -1,10 +1,9 @@
 # tubone24
 
-<a target="_blank" rel="noopener noreferrer" href="https://portfolio.tubone-project24.xyz"><img src="https://raw.githubusercontent.com/tubone24/auto_tweet_wordcloud/master/word_cloud_blog_large.png" alt="WordCloud" width="100%" style="max-width:100%;"></a>
-
 [![portfolio](https://img.shields.io/badge/portfolio-tubone24-brightgreen)](https://portfolio.tubone-project24.xyz/)
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/tubone24/tubone24)
 <img src="https://visitor-badge.glitch.me/badge?page_id=tubone24.visitor-badge"/>
+[![npx tubone24](https://img.shields.io/badge/npx-tubone24-red?logo=npm)](https://www.npmjs.com/package/tubone24)
 
 <a href="https://www.buymeacoffee.com/tubone24"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a ramen&emoji=🍜&slug=tubone24&button_colour=40DCA5&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"></a>
 
