@@ -3,9 +3,7 @@
 [![portfolio](https://img.shields.io/badge/portfolio-tubone24-brightgreen)](https://portfolio.tubone-project24.xyz/)
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/tubone24/tubone24)
 [![npx tubone24](https://img.shields.io/badge/npx-tubone24-red?logo=npm)](https://www.npmjs.com/package/tubone24)
-
-<a href="https://www.buymeacoffee.com/tubone24"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a ramen&emoji=🍜&slug=tubone24&button_colour=40DCA5&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"></a>
-
+[![by me a coffee](https://img.shields.io/badge/ByMeACoffee-tubone24-brightgreen?logo=Buy%20Me%20A%20Coffee)](https://www.buymeacoffee.com/tubone24)
 
 <p align='center'>
 <a href="https://twitter.com/meitante1conan"><img height="30" src="https://raw.githubusercontent.com/tubone24/tubone24/master/twitter.png"></a>&nbsp;&nbsp;
