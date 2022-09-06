@@ -20,6 +20,8 @@
 
 ### Blog Ratest Posts
 
+- [8年くらい使ってきたiTerm2 + tmuxの構成からWez's Terminalに移行してみる](https://blog.tubone-project24.xyz/2022/08/29/wezterm) - 2022-08-28
+
 - [Renovateの作るPRでArtifact update problemが出た時の対処法](https://blog.tubone-project24.xyz/2022/04/25/renovate-error) - 2022-04-24
 
 - [ブログのプレビューデプロイ時にtextlintを導入してみた](https://blog.tubone-project24.xyz/2022/4/22/textlint) - 2022-04-20
@@ -27,8 +29,6 @@
 - [Echo Show 15を買ってみての感想](https://blog.tubone-project24.xyz/2022/04/11/echo-show-15) - 2022-04-10
 
 - [AWS Lambda Function URLsがリリースされたのでタイムアウトの挙動を確かめてみる](https://blog.tubone-project24.xyz/2022/04/09/lambda-urls) - 2022-04-08
-
-- [負荷テストツールK6をTypeScript+Dockerで動かすためのテンプレートを作る](https://blog.tubone-project24.xyz/2022/03/20/k6-with-typescript) - 2022-03-19
 
 </td></tr></table>
 
