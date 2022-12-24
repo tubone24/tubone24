@@ -1,4 +1,4 @@
-ame: GenerateSnake
+name: GenerateSnake
 on:
   workflow_dispatch:
   schedule:
