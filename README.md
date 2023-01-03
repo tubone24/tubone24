@@ -12,6 +12,8 @@
 
 ### Blog Ratest Posts
 
+- [2023年版このブログを支える技術その1(Gatsby.jsと取り巻く技術要素)](https://blog.tubone-project24.xyz/2023/01/01/this-blog) - 2022-12-31
+
 - [コマンドを間違えたらそこで試合終了！ Suicide Linuxで遊んでいたら5秒ももたなかった話](https://blog.tubone-project24.xyz/2022/12/31/suicide-linux) - 2022-12-31
 
 - [8年くらい使ってきたiTerm2 + tmuxの構成からWez's Terminalに移行してみる](https://blog.tubone-project24.xyz/2022/08/29/wezterm) - 2022-08-28
@@ -19,8 +21,6 @@
 - [Renovateの作るPRでArtifact update problemが出た時の対処法](https://blog.tubone-project24.xyz/2022/04/25/renovate-error) - 2022-04-24
 
 - [ブログのプレビューデプロイ時にtextlintを導入してみた](https://blog.tubone-project24.xyz/2022/4/22/textlint) - 2022-04-20
-
-- [Echo Show 15を買ってみての感想](https://blog.tubone-project24.xyz/2022/04/11/echo-show-15) - 2022-04-10
 
 </td></tr></table>
 
