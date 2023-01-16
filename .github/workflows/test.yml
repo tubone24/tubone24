@@ -1,0 +1,25 @@
+name: Test
+
+on:
+  push:
+
+jobs:
+  GenerateWordCloud:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python 3.x
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.7"
+      - uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      - name: Install Dependencies
+        run:
+          pip install -r requirements.txt
+      - name: Generate RSS Link
+        run: python3 get_rss_feed.py
