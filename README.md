@@ -12,6 +12,8 @@
 
 ### Blog Ratest Posts
 
+- [Sentry新機能のSession Replayを使ってみる](https://blog.tubone-project24.xyz/2023/01/18/sentry-replay) - 2023-01-17
+
 - [2023年、今年の目標](https://blog.tubone-project24.xyz/2023-01-15/2023年、今年の目標) - 2023-01-14
 
 - [2023年版このブログを支える技術その2(OWASP ZAP / Snykでお金をかけない脆弱性診断)](https://blog.tubone-project24.xyz/2022/01/03/owaspzap) - 2023-01-02
@@ -19,8 +21,6 @@
 - [2023年版このブログを支える技術その1(Gatsby.jsと取り巻く技術要素)](https://blog.tubone-project24.xyz/2023/01/01/this-blog) - 2022-12-31
 
 - [コマンドを間違えたらそこで試合終了！ Suicide Linuxで遊んでいたら5秒ももたなかった話](https://blog.tubone-project24.xyz/2022/12/31/suicide-linux) - 2022-12-31
-
-- [8年くらい使ってきたiTerm2 + tmuxの構成からWez's Terminalに移行してみる](https://blog.tubone-project24.xyz/2022/08/29/wezterm) - 2022-08-28
 
 </td></tr></table>
 
