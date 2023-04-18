@@ -12,6 +12,8 @@
 
 ### Blog Ratest Posts
 
+- [お掃除ロボットを買ったら「弱いロボット理論」だった話](https://blog.tubone-project24.xyz/2023/04/17/cleaning-robot) - 2023-04-17
+
 - [Sentry新機能のSession Replayを使ってみる](https://blog.tubone-project24.xyz/2023/01/18/sentry-replay) - 2023-01-17
 
 - [Raspberry Piを定期的に再起動させる](https://blog.tubone-project24.xyz/2023/01/18/reboot-linux) - 2023-01-16
@@ -19,8 +21,6 @@
 - [2023年、今年の目標](https://blog.tubone-project24.xyz/2023-01-15/2023年、今年の目標) - 2023-01-14
 
 - [2023年版このブログを支える技術その2(OWASP ZAP / Snykでお金をかけない脆弱性診断)](https://blog.tubone-project24.xyz/2022/01/03/owaspzap) - 2023-01-02
-
-- [2023年版このブログを支える技術その1(Gatsby.jsと取り巻く技術要素)](https://blog.tubone-project24.xyz/2023/01/01/this-blog) - 2022-12-31
 
 </td></tr></table>
 
