@@ -12,15 +12,15 @@
 
 ### Blog Ratest Posts
 
+- [Langfuse v3はv2からどのように変わったのかを噛み締めながらAWSマネージドサービスでLangfuse v3を作りきる](https://blog.tubone-project24.xyz/2024-12-30/Langfuse-v3をAWSマネージドサービスで作る) - 2024-12-30
+
+- [企業名サジェスト機能貧乏開発](https://blog.tubone-project24.xyz/2024-12-05/貧乏企業名サジェスト機能開発) - 2024-12-04
+
 - [妻のためにアイドルの情報が更新されたらSlackに通知する実装をした](https://blog.tubone-project24.xyz/2024-02-28/妻のためにアイドルの情報が更新されたらSlackに通知する実装をした) - 2024-03-10
 
 - [芸能人のような手書きの結婚報告したい](https://blog.tubone-project24.xyz/2023/10/15/houkoku) - 2023-10-14
 
 - [NFCタグを使ったデジタル名刺をPageCryptを使って作ってみた](https://blog.tubone-project24.xyz/2023-05-04/nfc-business-cart) - 2023-05-03
-
-- [お掃除ロボットを買ったら「弱いロボット理論」だった話](https://blog.tubone-project24.xyz/2023/04/17/cleaning-robot) - 2023-04-17
-
-- [Sentry新機能のSession Replayを使ってみる](https://blog.tubone-project24.xyz/2023/01/18/sentry-replay) - 2023-01-17
 
 </td></tr></table>
 
