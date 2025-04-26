@@ -2,7 +2,6 @@
 
 [![portfolio](https://img.shields.io/badge/portfolio-tubone24-brightgreen)](https://portfolio.tubone-project24.xyz/)
 [![portfolio](https://img.shields.io/badge/blog-tuboneBOYAKI-pink)](https://tubone-project24.xyz/)
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/tubone24/tubone24)
 [![npx tubone24](https://img.shields.io/badge/npx-tubone24-red?logo=npm)](https://www.npmjs.com/package/tubone24)
 [![by me a coffee](https://img.shields.io/badge/ByMeACoffee-tubone24-brightgreen?logo=Buy%20Me%20A%20Coffee)](https://www.buymeacoffee.com/tubone24)
 
