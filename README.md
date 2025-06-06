@@ -19,11 +19,11 @@
 
 ### Slides Latest Posts
 
+- [ClickHouseと AWS CloudWatch RUMを統合して AIエージェントの 分析を加速させる](https://slide-tubone24.pages.dev/slides/clickhouse-aws-cloudwatch-rum-ai) - 2025-06-05
 - [キャリアの育て方](https://slide-tubone24.pages.dev/slides/slide-0a92b4) - 2025-04-09
 - [音楽Cline](https://slide-tubone24.pages.dev/slides/cline) - 2025-04-09
 - [Langfuse V3を安くしたい](https://slide-tubone24.pages.dev/slides/langfusev3) - 2025-03-25
 - [Langfuse v3 使ってますか？](https://slide-tubone24.pages.dev/slides/langfuse-v3) - 2025-01-28
-- [【お子さま向け】Amazon ECS サービスディスカバリーって知ってる？【楽しい読み聞かせ】](https://slide-tubone24.pages.dev/slides/amazon-ecs) - 2025-01-08
 
 </td></tr></table>
 
