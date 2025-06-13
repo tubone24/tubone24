@@ -19,11 +19,11 @@
 
 ### Slides Latest Posts
 
+- [MCPにおける認証・認可](https://slide-tubone24.pages.dev/slides/authmcp) - 2025-06-13
 - [ClickHouseと AWS CloudWatch RUMを統合して AIエージェントの 分析を加速させる](https://slide-tubone24.pages.dev/slides/clickhouse-aws-cloudwatch-rum-ai) - 2025-06-05
+- [MCP技術深堀り](https://slide-tubone24.pages.dev/slides/mcp) - 2025-05-26
 - [キャリアの育て方](https://slide-tubone24.pages.dev/slides/slide-0a92b4) - 2025-04-09
 - [音楽Cline](https://slide-tubone24.pages.dev/slides/cline) - 2025-04-09
-- [Langfuse V3を安くしたい](https://slide-tubone24.pages.dev/slides/langfusev3) - 2025-03-25
-- [Langfuse v3 使ってますか？](https://slide-tubone24.pages.dev/slides/langfuse-v3) - 2025-01-28
 
 </td></tr></table>
 
