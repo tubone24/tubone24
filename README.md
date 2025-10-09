@@ -5,38 +5,6 @@
 [![npx tubone24](https://img.shields.io/badge/npx-tubone24-red?logo=npm)](https://www.npmjs.com/package/tubone24)
 [![by me a coffee](https://img.shields.io/badge/ByMeACoffee-tubone24-brightgreen?logo=Buy%20Me%20A%20Coffee)](https://www.buymeacoffee.com/tubone24)
 
-### Publication
-
-<table>
-<tr>
-<td width="120px" align="center">
-<img src="https://m.media-amazon.com/images/I/61sKi1t0SQL._SL1500_.jpg" alt="やさしいMCP入門" width="100" height="140" style="border: 1px solid #ddd; border-radius: 4px;">
-</td>
-<td>
-<h4>やさしいMCP入門</h4>
-<p><strong>著者:</strong> 御田稔、大坪悠<br>
-<strong>出版社:</strong> 秀和システム新社<br>
-<strong>発売日:</strong> 2025年07月01日</p>
-<p>AIエージェント時代の標準規格MCP（モデル コンテキスト プロトコル）の入門書。大バズりしたスライド「やさしいMCP入門」の著者が新技術の基礎をやさしく解説。</p>
-</td>
-</tr>
-<tr>
-<td width="120px" align="center">
-<img src="https://m.media-amazon.com/images/I/61E5zCTuJoL._SL1024_.jpg" alt="AIエージェント開発 / 運用入門" width="100" height="140" style="border: 1px solid #ddd; border-radius: 4px;">
-</td>
-<td>
-<h4>AIエージェント開発 / 運用入門 [生成AI深掘りガイド]</h4>
-<p><strong>著者:</strong> 御田稔、大坪悠、塚田真規<br>
-<strong>出版社:</strong> SBクリエイティブ<br>
-<strong>発売日:</strong> 2025年10月01日</p>
-<p>「AIエージェント」の基本・作り方・活用方法が、この一冊でぜんぶ学べる！
-
-昨今話題の「AIエージェント」について、基礎の基礎から１つずつ丁寧に、しっかりと解説した本格入門書です。
-基礎知識はもとより、AIエージェントの作り方や実際の活用事例、さらにはAIエージェントを語るうえで欠かせないLLMについても解説しています。</p>
-</td>
-</tr>
-</table>
-
 <!-- generate_markdown_start -->
 
 <table><tr><td valign="top" width="100%">
