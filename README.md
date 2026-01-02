@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=tubone24;Web+App+Developer;Developer+of+SottoMe.digital)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=tubone24;Web+App+Developer;Developer+of+SottoMe.digital)](https://git.io/typing-svg)
 
 [![portfolio](https://img.shields.io/badge/portfolio-tubone24-brightgreen)](https://portfolio.tubone-project24.xyz/)
 [![portfolio](https://img.shields.io/badge/blog-tuboneBOYAKI-pink)](https://tubone-project24.xyz/)
