@@ -5,6 +5,9 @@
 [![npx tubone24](https://img.shields.io/badge/npx-tubone24-red?logo=npm)](https://www.npmjs.com/package/tubone24)
 [![by me a coffee](https://img.shields.io/badge/ByMeACoffee-tubone24-brightgreen?logo=Buy%20Me%20A%20Coffee)](https://www.buymeacoffee.com/tubone24)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=tubone24;Developer+of+SottoMe)](https://git.io/typing-svg)
+
+
 <!-- generate_markdown_start -->
 
 <table><tr><td valign="top" width="100%">
