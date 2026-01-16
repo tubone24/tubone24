@@ -10,6 +10,11 @@
 
 <table><tr><td valign="top" width="100%">
 
+### Publications
+
+- [やさしいMCP入門](https://amzn.asia/d/8MyBrsM) - 2025/7/1
+- [AIエージェント開発／運用入門 ［生成AI深掘りガイド］](https://amzn.asia/d/4vElt0i) - 2025/10/1
+
 ### Blog Latest Posts
 
 - [AP2に入門する](https://tubone-project24.xyz/2025-10-29/introduction-to-ap2) - 2025-11-04

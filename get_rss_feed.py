@@ -5,8 +5,13 @@ import feedparser
 
 RSS_FEEDS = {
     "blog": "https://blog.tubone-project24.xyz/rss.xml",
-    "slides": "https://slide-tubone24.pages.dev/rss.xml" 
+    "slides": "https://slide-tubone24.pages.dev/rss.xml"
 }
+
+PUBLICATIONS = [
+    {"title": "やさしいMCP入門", "link": "https://amzn.asia/d/8MyBrsM", "date": "2025/7/1"},
+    {"title": "AIエージェント開発／運用入門 ［生成AI深掘りガイド］", "link": "https://amzn.asia/d/4vElt0i", "date": "2025/10/1"},
+]
 
 def get_rss(url):
     """指定したURLからRSSフィードを取得し、必要な情報を抽出します"""
@@ -44,14 +49,20 @@ def generate_markdown(rss_dict):
     """すべてのRSSフィードのマークダウンを生成します"""
     header = "<table><tr><td valign=\"top\" width=\"100%\">\n\n"
     content = ""
-    
+
+    # Publications section
+    content += "### Publications\n\n"
+    for item in PUBLICATIONS:
+        content += f"- [{item['title']}]({item['link']}) - {item['date']}\n"
+    content += "\n"
+
     for feed_title, feed_items in rss_dict.items():
         content += f"### {feed_title.capitalize()} Latest Posts\n\n"
         # 各フィードの最大5つの項目を一覧表示
         for item in feed_items[:5]:
             content += f"- [{item['title']}]({item['link']}) - {item['date']}\n"
         content += "\n"
-    
+
     footer = "</td></tr></table>"
     return header + content + footer
 
