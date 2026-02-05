@@ -17,11 +17,11 @@
 
 ### Blog Latest Posts
 
+- [レバテックフリーランスの「"できるエンジニア"と言われるために押さえたい！スキルアップブログ集」に紹介されました](https://tubone-project24.xyz/2026/02/04/levtech-freelance-blog-featured) - 2026-02-04
 - [whisper-realtimeとClaude Codeで実現する音声入力ブログ執筆](https://tubone-project24.xyz/2026/02/03/whisper-realtime-claude-code-blog-writing) - 2026-02-03
 - [AP2に入門する](https://tubone-project24.xyz/2025-10-29/introduction-to-ap2) - 2025-11-04
 - [Celery Beat + Cloudwatch metricsで作るCelery監視](https://tubone-project24.xyz/2025-02-24/celery-monitoring-with-beat-and-cloudwatch) - 2025-02-23
 - [Langfuse v3を安く運用する方法](https://tubone-project24.xyz/2025-02-16/cost-effective-langfuse-v3-deployment) - 2025-02-16
-- [Langfuse v3はv2からどのように変わったのかを噛み締めながらAWSマネージドサービスでLangfuse v3を作りきる](https://tubone-project24.xyz/2024-12-30/building-langfuse-v3-with-aws-managed-services) - 2024-12-30
 
 ### Slides Latest Posts
 
