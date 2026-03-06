@@ -17,11 +17,11 @@
 
 ### Blog Latest Posts
 
+- [Claude CodeのRemote Controlを使い倒すために、Slackを使ったスマホ通知を作ってみた](https://tubone-project24.xyz/2026/03/05/claude-code-remote-control-slack-notification/) - 2026-03-05
 - [AWSではじめるMCP実践ガイドを読んでみて](https://tubone-project24.xyz/2026/02/21/levtech-freelance-blog-featured/) - 2026-02-21
 - [レバテックフリーランスの「"できるエンジニア"と言われるために押さえたい！スキルアップブログ集」に紹介されました](https://tubone-project24.xyz/2026/02/04/levtech-freelance-blog-featured/) - 2026-02-04
 - [whisper-realtimeとClaude Codeで実現する音声入力ブログ執筆](https://tubone-project24.xyz/2026/02/03/whisper-realtime-claude-code-blog-writing/) - 2026-02-03
 - [AP2に入門する](https://tubone-project24.xyz/2025-10-29/introduction-to-ap2/) - 2025-11-05
-- [Celery Beat + Cloudwatch metricsで作るCelery監視](https://tubone-project24.xyz/2025-02-24/celery-monitoring-with-beat-and-cloudwatch/) - 2025-02-24
 
 ### Slides Latest Posts
 
