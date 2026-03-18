@@ -17,11 +17,6 @@
 
 ### Blog Latest Posts
 
-- [Claude CodeのHooksとLangfuseで、コーディングエージェントの動きを丸裸にする](https://tubone-project24.xyz/2026/03/13/claude-code-langfuse-hooks-tracing/) - 2026-03-13
-- [Claude CodeのRemote Controlを使い倒すために、Slackを使ったスマホ通知を作ってみた](https://tubone-project24.xyz/2026/03/05/claude-code-remote-control-slack-notification/) - 2026-03-05
-- [AWSではじめるMCP実践ガイドを読んでみて](https://tubone-project24.xyz/2026/02/21/aws-mcp-practical-guide-review/) - 2026-02-21
-- [レバテックフリーランスの「"できるエンジニア"と言われるために押さえたい！スキルアップブログ集」に紹介されました](https://tubone-project24.xyz/2026/02/04/levtech-freelance-blog-featured/) - 2026-02-04
-- [whisper-realtimeとClaude Codeで実現する音声入力ブログ執筆](https://tubone-project24.xyz/2026/02/03/whisper-realtime-claude-code-blog-writing/) - 2026-02-03
 
 ### Slides Latest Posts
 
