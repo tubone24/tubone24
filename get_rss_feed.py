@@ -1,10 +1,10 @@
-import codecs
 import datetime
 import locale
 import feedparser
+import requests
 
 RSS_FEEDS = {
-    "blog": "https://blog.tubone-project24.xyz/rss.xml",
+    "blog": "https://tubone-project24.xyz/rss.xml",
     "slides": "https://slide-tubone24.pages.dev/rss.xml"
 }
 
@@ -20,7 +20,9 @@ def get_rss(url):
     except locale.Error:
         pass
     
-    d = feedparser.parse(url)
+    response = requests.get(url, timeout=30)
+    response.raise_for_status()
+    d = feedparser.parse(response.text)
     results = []
     
     for entry in d.entries:
@@ -68,11 +70,11 @@ def generate_markdown(rss_dict):
 
 def paste_markdown(content):
     """生成したマークダウンをREADME.mdファイルに挿入します"""
-    with codecs.open("README.md", "r", "utf-8") as f:
+    with open("README.md", "r", encoding="utf-8") as f:
         md = f.read()
         head = md.split("<!-- generate_markdown_start -->")[0]
         end = md.split("<!-- generate_markdown_end -->")[1]
-    with codecs.open("README.md", "w", "utf-8") as f:
+    with open("README.md", "w", encoding="utf-8") as f:
         f.write(head + "<!-- generate_markdown_start -->\n\n" + content + "\n\n<!-- generate_markdown_end -->" + end)
 
 if __name__ == "__main__":
