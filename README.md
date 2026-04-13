@@ -17,11 +17,11 @@
 
 ### Blog Latest Posts
 
+- [MCP AppsでMIDIの譜面をリアルタイムに可視化する](https://tubone-project24.xyz/2026/04/11/midi-mcp-server-mcp-apps/) - 2026-04-11
 - [Claude Codeのサブスクリプションで動くSlack常駐AIエージェントを作った](https://tubone-project24.xyz/2026/03/27/mugi-claw-slack-personal-ai-agent/) - 2026-03-27
 - [大統領デイリーブリーフィングに学ぶ、忙しく平凡なエンジニアの技術キャッチアップ方法](https://tubone-project24.xyz/2026/03/17/obsidian-slack-efficient-learning/) - 2026-03-17
 - [Claude CodeのHooksとLangfuseで、コーディングエージェントの動きを丸裸にする](https://tubone-project24.xyz/2026/03/13/claude-code-langfuse-hooks-tracing/) - 2026-03-13
 - [Claude CodeのRemote Controlを使い倒すために、Slackを使ったスマホ通知を作ってみた](https://tubone-project24.xyz/2026/03/05/claude-code-remote-control-slack-notification/) - 2026-03-05
-- [AWSではじめるMCP実践ガイドを読んでみて](https://tubone-project24.xyz/2026/02/21/aws-mcp-practical-guide-review/) - 2026-02-21
 
 ### Slides Latest Posts
 
