@@ -25,7 +25,7 @@
 
 ### Slides Latest Posts
 
-- [MastraでAIエージェントに入門しよう](https://slide-tubone24.pages.dev/slides/mastraai) - 2025-10-24
+- [Claude Codeの動きをLangfuseで見てみよう](https://slide-tubone24.pages.dev/slides/claude-code-langfuse) - 2026-04-24
 - [MCP技術深堀り](https://slide-tubone24.pages.dev/slides/mcp) - 2025-07-24
 - [MCPにおける認証・認可](https://slide-tubone24.pages.dev/slides/authmcp) - 2025-06-13
 - [ClickHouseと AWS CloudWatch RUMを統合して AIエージェントの 分析を加速させる](https://slide-tubone24.pages.dev/slides/clickhouse-aws-cloudwatch-rum-ai) - 2025-06-05
