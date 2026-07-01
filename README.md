@@ -17,11 +17,11 @@
 
 ### Blog Latest Posts
 
+- [ループエンジニアリングとサイト作成と](https://tubone-project24.xyz/2026/06/28/ai-coding-agent-loop-engineering/) - 2026-06-28
 - [mspecという仕様駆動開発フレームワークを作っている](https://tubone-project24.xyz/2026/05/29/mspec-spec-driven-development-framework/) - 2026-05-29
 - [x402のペイウォールをAIエージェントがアンロックする未来](https://tubone-project24.xyz/2026/05/09/x402-paywall-ai-agent-autonomous-unlock/) - 2026-05-09
 - [x402プロトコルでブログにペイウォールを実装してみた](https://tubone-project24.xyz/2026/05/08/x402-protocol-ai-agent-micropayment/) - 2026-05-08
 - [Langfuse v4はなぜobservation-centricになったのか](https://tubone-project24.xyz/2026/05/02/langfuse-v4-observation-centric-clickhouse-deep-dive/) - 2026-05-02
-- [MCP AppsでMIDIの譜面をリアルタイムに可視化する](https://tubone-project24.xyz/2026/04/11/midi-mcp-server-mcp-apps/) - 2026-04-11
 
 ### Slides Latest Posts
 
