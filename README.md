@@ -17,11 +17,11 @@
 
 ### Blog Latest Posts
 
+- [『AIエージェント開発の知識地図』をご恵贈いただきました](https://tubone-project24.xyz/2026/09/18/ai-agent-roadmap-book-review/) - 2026-09-18
 - [『エンジニアのAI壁打ち実践術』を献本いただきました](https://tubone-project24.xyz/2026/09/01/ai-sparring-book-review/) - 2026-09-01
 - [ループエンジニアリングとサイト作成と](https://tubone-project24.xyz/2026/06/28/ai-coding-agent-loop-engineering/) - 2026-06-28
 - [mspecという仕様駆動開発フレームワークを作っている](https://tubone-project24.xyz/2026/05/29/mspec-spec-driven-development-framework/) - 2026-05-29
 - [x402のペイウォールをAIエージェントがアンロックする未来](https://tubone-project24.xyz/2026/05/09/x402-paywall-ai-agent-autonomous-unlock/) - 2026-05-09
-- [x402プロトコルでブログにペイウォールを実装してみた](https://tubone-project24.xyz/2026/05/08/x402-protocol-ai-agent-micropayment/) - 2026-05-08
 
 ### Slides Latest Posts
 
